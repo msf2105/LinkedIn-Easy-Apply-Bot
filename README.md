@@ -166,7 +166,7 @@ technology:
 personalInfo:
  First Name: FirstName
  Last Name: LastName
- Phone Country Code: Canada (+1) # See linkedin for your country code, must be exact
+ Phone Country Code: United States (+1) # See linkedin for your country code, must be exact
  Mobile Phone Number: 1234567890
  Street address: 123 Fake Street
  City: Red Deer, Alberta # Include the state/province as well!
@@ -181,7 +181,7 @@ eeo:
  race: None
  vetran: None
  disability: None
- citizenship: Canadian
+ citizenship: American
 ```
 
 
